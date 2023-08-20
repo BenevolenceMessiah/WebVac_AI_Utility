@@ -6,7 +6,7 @@ Python-based scraper utility featuring a fully fuinctional GUI and machine-learn
 
 
 1. Download and install [Git](https://git-scm.com/downloads) for your corresponding system (When installing, make sure that the option to add Git Bash to the Shell Menu is ticked - it should be by default as I recall).
-2. Right click, select 'open Git Bash here' where you'd like to install/download the thesis.
+2. Right click, select 'open Git Bash here' where you'd like to install/download the WebVac Scraper.
 3. Paste:
 
 
