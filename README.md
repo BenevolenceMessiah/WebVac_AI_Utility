@@ -1,4 +1,4 @@
-# WebVac Scraper
+# WebVac AI Utility
 Python-based scraper utility featuring a fully fuinctional GUI and machine-learning implmentations predominatly designed for building AI training datasets, packaged into a nifty one-click installer.
 
 
